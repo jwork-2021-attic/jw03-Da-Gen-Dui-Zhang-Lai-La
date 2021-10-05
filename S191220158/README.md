@@ -20,11 +20,11 @@
 
 选择排序，链接为https://github.com/Da-Gen-Dui-Zhang-Lai-La/JAVA1/blob/main/example.SelectionSorter.png
 
-![](https://github.com/Da-Gen-Dui-Zhang-Lai-La/JAVA1/blob/main/example.SelectionSorter.png)
+![avatar](example.SelectionSorter.png)
 
 插入排序，链接为https://github.com/Da-Gen-Dui-Zhang-Lai-La/JAVA1/blob/main/example.InsertSorter.png
 
-![](https://github.com/Da-Gen-Dui-Zhang-Lai-La/JAVA1/blob/main/example.InsertSorter.png)
+![](example.InsertSorter.png)
 
 `（如果打不开图片可以在S191220158文件夹中找到相应图片）`
 
@@ -44,13 +44,12 @@
 
 
 
-
-
-
-
 **如果有朋友发现java11无法正常运行java8的图片，请立即联系191220158！！！！**
 
-**如果有朋友发现java11无法正常运行java8的图片，请立即联系191220158！！！！**
 
-**如果有朋友发现java11无法正常运行java8的图片，请立即联系191220158！！！！**
 
+
+
+### 特别鸣谢：
+
+感谢191220142叶起厚同学对我这次作业提供的帮助，他不仅给我提供了java8版本的图片(example.QuickSorter.png)，同时手把手教给了我升级java11的方法，特此感谢！
